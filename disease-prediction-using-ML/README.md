@@ -21,6 +21,7 @@ https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-lear
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/ML Projects.git
+git clone https://github.com/danieljames96/ML-Projects.git
 cd disease-prediction-using-ML
 pip install -r requirements.txt
+```
