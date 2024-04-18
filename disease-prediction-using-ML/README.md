@@ -12,9 +12,9 @@ This project aims to implement a robust machine-learning model that can efficien
 - seaborn
 
 ## Features
-- Implements three machine learning models: Logistic Regression, SVM, and Random Forest.
+- The dataset consists of two CSV files one for training and one for testing. There is a total of 133 columns in the dataset out of which 132 columns represent the symptoms and the last column is the prognosis.
+- Implements three machine learning models: Support Vector Classifier, Naive Bayes Classifier, and Random Forest Classifier.
 - Includes model evaluation and comparison of accuracy.
-- Features a Jupyter Notebook with detailed explanations.
 
 ## Data Source
 https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
