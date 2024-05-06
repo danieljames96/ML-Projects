@@ -25,3 +25,8 @@ git clone https://github.com/danieljames96/ML-Projects.git
 cd disease-prediction-using-ML
 pip install -r requirements.txt
 ```
+
+## Implementation
+- Run the file `diseasePred.ipynb` to understand how the model works
+- Run the file `diseasePred.py` to feed custom input data as a csv file `Symptoms.csv` present in the `/dataset` folder.
+- The results generated in the `/output` directory in the form of two excel files `model_results.xslx` and `predictions.xlsx`.
