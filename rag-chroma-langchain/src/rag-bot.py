@@ -31,7 +31,7 @@ while True:
 
     history.append(new_message)
     
-    #Uncomment to see chat history
+    #Chat history
     import json
     gray_color = "\033[90m"
     reset_color = "\033[0m"
