@@ -8,4 +8,4 @@ In order to gain hands-on experience in Machine Learning, I have picked up these
 - Identifying Hand Writing from MNIST Database (PyTorch - Logistic Regression, Convolutional Neural Network)
 - Stock Price Prediction using Tensorflow (Tensorflow (Keras) - LTSM)
 - American Sign Language Translation (Tensorflow (Keras))
-- Simple RAG Model (Sentence Transformer, PyTorch)
+- Simple RAG Model (HuggingFace, Sentence Transformer, PyTorch)
